@@ -1,6 +1,6 @@
 # Linux Kernel BTRFS - Write-What-Where Vulnerability in `read_extent_buffer_to_user_nofault` and `copy_to_sk`
 
-**Author:** Matteu Olivieri Bastiani 
+**Author:** Matteu Olivieri Bastiani
 **Date:** 2025-07-08  
 **Status:** Public Disclosure  
 **CVE:** Pending Assignment  
